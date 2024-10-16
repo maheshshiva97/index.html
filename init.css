@@ -12,7 +12,7 @@ header h1 {
 
 button {
     background-color: #e7d518; /* Blue button color */
-    color: rgb(255, 255, 255);
+    color: hsl(0, 21%, 45%);
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
