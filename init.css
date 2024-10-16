@@ -10,8 +10,9 @@ header h1 {
     color: #206db9; /* Dark color for header text */
 }
 
-button {
-    background-color: #e7d518; /* Blue button color */
+.btn {
+    
+    background-color: #e610adeb; /* Blue button color */
     color: hsl(0, 21%, 45%);
     padding: 10px 20px;
     border: none;
@@ -19,6 +20,11 @@ button {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s ease;
+}
+.btn_filled{
+    color: blue;
+    border: 1px solid blue;
+    background-color: green;
 }
 
 button:hover {
