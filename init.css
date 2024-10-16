@@ -1,18 +1,18 @@
 /* Basic CSS styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Light background color */
+    background-color: #070c07eb; /* Light background color */
     text-align: center;
     padding: 50px;
 }
 
 header h1 {
-    color: #2c3e50; /* Dark color for header text */
+    color: #206db9; /* Dark color for header text */
 }
 
 button {
-    background-color: #3498db; /* Blue button color */
-    color: white;
+    background-color: #e7d518; /* Blue button color */
+    color: rgb(255, 255, 255);
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
