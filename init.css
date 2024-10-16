@@ -26,6 +26,11 @@ header h1 {
     border: 1px solid blue;
     background-color: green;
 }
+.btn_what{
+    color: blue;
+    border: 1px solid rgb(1, 7, 11);
+    background-color: green;
+}
 
 button:hover {
     background-color: #2980b9; /* Darker blue on hover */
